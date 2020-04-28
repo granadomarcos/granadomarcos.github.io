@@ -1,5 +1,4 @@
-![header-background](images/header-background.jpg)
-<h1>Designing a integrnated RD Station Marketing Dashboard</h1>
+<h1>Designing a integrated RD Station Marketing Dashboard</h1>
 
 
 <h2>The main problem</h2>
@@ -132,13 +131,15 @@ The final result of the Dashboard, you can check now.
 The project consists of three screens:
 
 The first one is to have an overview of the sales base and funnel
-![tela1](images/tela1.jpg)
+![ ](/images/tela1.jpg)
 
 
 The second is to evaluate marketing campaigns
-![tela2](images/tela2.jpg)
+![ ](/images/tela2.jpg)
+
 The third is to understand the segmentation and interest of the leads
-![tela3](images/tela3.jpg)
+
+![ ](/images/tela3.jpg)
 This is an operational dashboard, presents metrics present and is ideal to assess in real time the behavior of the lead base, sales, campaigns, performance of the commercial and marketing teams.
 
 From it, it is possible to view the data presented quite clearly and can be used to gain insights into the company's current strategy.
